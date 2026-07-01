@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Engineer",
+    "company": "Flipkart",
+    "location": "Bengaluru, KA",
+    "salary": 3500000,
+    "datePosted": "2026-06-25T10:00:00Z",
+    "description": "Looking for an experienced Frontend Engineer with strong React and Redux skills.",
+    "type": "Full-time"
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "company": "Zomato",
+    "location": "Gurugram, HR",
+    "salary": 2800000,
+    "datePosted": "2026-06-28T14:30:00Z",
+    "description": "Join our backend team to build highly scalable Node.js microservices.",
+    "type": "Hybrid"
+  },
+  {
+    "id": "3",
+    "title": "UI/UX Designer",
+    "company": "Razorpay",
+    "location": "Bengaluru, KA",
+    "salary": 2200000,
+    "datePosted": "2026-06-30T09:15:00Z",
+    "description": "Create stunning user experiences and design systems for enterprise clients.",
+    "type": "Full-time"
+  },
+  {
+    "id": "4",
+    "title": "DevOps Engineer",
+    "company": "TCS",
+    "location": "Pune, MH",
+    "salary": 1800000,
+    "datePosted": "2026-06-20T11:00:00Z",
+    "description": "Manage AWS/Azure infrastructure and optimize CI/CD pipelines.",
+    "type": "Full-time"
+  },
+  {
+    "id": "5",
+    "title": "React Native Developer",
+    "company": "Paytm",
+    "location": "Noida, UP",
+    "salary": 2500000,
+    "datePosted": "2026-06-29T16:45:00Z",
+    "description": "Build high-performance cross-platform mobile apps.",
+    "type": "Full-time"
+  },
+  {
+    "id": "6",
+    "title": "Full Stack Engineer",
+    "company": "Freshworks",
+    "location": "Chennai, TN",
+    "salary": 3200000,
+    "datePosted": "2026-06-27T08:20:00Z",
+    "description": "Work on both frontend React and backend Python services.",
+    "type": "Full-time"
+  },
+  {
+    "id": "7",
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "location": "Hyderabad, TS",
+    "salary": 2400000,
+    "datePosted": "2026-06-26T13:10:00Z",
+    "description": "Analyze large datasets and train machine learning models.",
+    "type": "Full-time"
+  },
+  {
+    "id": "8",
+    "title": "Frontend Architect",
+    "company": "Zoho",
+    "location": "Chennai, TN",
+    "salary": 4500000,
+    "datePosted": "2026-07-01T07:00:00Z",
+    "description": "Lead the frontend architecture for our core platform.",
+    "type": "Full-time"
+  },
+  {
+    "id": "9",
+    "title": "Software Engineer Intern",
+    "company": "Wipro",
+    "location": "Bengaluru, KA",
+    "salary": 600000,
+    "datePosted": "2026-06-15T10:30:00Z",
+    "description": "Great opportunity to learn and grow in a fast-paced environment.",
+    "type": "Internship"
+  },
+  {
+    "id": "10",
+    "title": "Product Manager",
+    "company": "Swiggy",
+    "location": "Bengaluru, KA",
+    "salary": 3800000,
+    "datePosted": "2026-06-22T09:00:00Z",
+    "description": "Drive product vision and coordinate with engineering and design.",
+    "type": "Full-time"
+  },
+  {
+    "id": "11",
+    "title": "Security Analyst",
+    "company": "HCLTech",
+    "location": "Noida, UP",
+    "salary": 1600000,
+    "datePosted": "2026-06-28T11:45:00Z",
+    "description": "Monitor and secure enterprise networks against modern threats.",
+    "type": "Full-time"
+  },
+  {
+    "id": "12",
+    "title": "Blockchain Developer",
+    "company": "Polygon",
+    "location": "Remote",
+    "salary": 5000000,
+    "datePosted": "2026-06-30T15:20:00Z",
+    "description": "Develop smart contracts and decentralized applications.",
+    "type": "Remote"
+  },
+  {
+    "id": "13",
+    "title": "QA Engineer",
+    "company": "Mindtree",
+    "location": "Pune, MH",
+    "salary": 1200000,
+    "datePosted": "2026-06-24T10:15:00Z",
+    "description": "Implement automated testing and ensure high-quality releases.",
+    "type": "Full-time"
+  },
+  {
+    "id": "14",
+    "title": "Site Reliability Engineer",
+    "company": "MakeMyTrip",
+    "location": "Gurugram, HR",
+    "salary": 3000000,
+    "datePosted": "2026-06-29T08:50:00Z",
+    "description": "Ensure high availability and performance of our services.",
+    "type": "Full-time"
+  },
+  {
+    "id": "15",
+    "title": "Mobile Tech Lead",
+    "company": "Dream11",
+    "location": "Mumbai, MH",
+    "salary": 4000000,
+    "datePosted": "2026-06-21T12:00:00Z",
+    "description": "Lead the mobile development team using Swift and Kotlin.",
+    "type": "Full-time"
+  },
+  {
+    "id": "16",
+    "title": "Marketing Designer",
+    "company": "Nykaa",
+    "location": "Mumbai, MH",
+    "salary": 1500000,
+    "datePosted": "2026-06-26T14:30:00Z",
+    "description": "Design compelling marketing materials and campaign assets.",
+    "type": "Full-time"
+  }
+]
